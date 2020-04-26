@@ -24,3 +24,4 @@ public class BookController {
 		return ResponseEntity.ok(book);			
 	}
 }
+
